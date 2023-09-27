@@ -5,7 +5,7 @@ Overview
 This is an exciting 3D endless game developed in Unity. The game offers a thrilling gaming experience where players can explore the hidden dark space. You can download and play the game on your Windows PC by following the instructions below.
 
 Gameplay
-Endless Space Dodger is an exhilarating 3D space-themed game where you pilot a spaceship through the vast cosmic expanse. Your mission is to dodge the deadly Vibranium Cubes that come hurtling towards your spaceship. As you progress, your spaceship gains speed, making the game increasingly challenging.
+Escape is an exhilarating 3D space-themed game where you pilot a spaceship through the vast cosmic expanse. Your mission is to dodge the deadly Vibranium Cubes that come hurtling towards your spaceship. As you progress, your spaceship gains speed, making the game increasingly challenging.
 
 Objective: Survive for as long as possible by skillfully maneuvering your spaceship to avoid collisions with Vibranium Cubes.
 
